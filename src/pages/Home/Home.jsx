@@ -17,11 +17,24 @@ const Home = () => {
         <p>Phishing is een vorm van internetfraude. Het bestaat uit het oplichten van mensen door ze te lokken naar een valse website, die een kopie is van de echte website, om ze daar – nietsvermoedend – te laten inloggen met hun inlognaam en wachtwoord of hun creditcardnummer.</p>
       </div>
       <div>
+        <h2>Tips om phishing the vermijden</h2>
+        <ol>
+          <li>Check de link/ email van de afzender. Kijk na of er geen vreemde tekens tussen de letters staan of letters van plaats zijn verwisseld.</li>
+          <li>Kijk na of het logo (indien aanwezig) wel het correcte logo is.</li>
+          <li>Wanneer je een phishing sms ontvangt komt dit van een 06-nummer.</li>
+          <li>Klik nooit op een link van een vreemde afzender (zonder te controleren)</li>
+        </ol>
+      </div>
+      <div>
+        <h2>Waarom is phishing zo gevaarlijk</h2>
+        <p></p>
+      </div>
+      <div>
         <h2>Meer info omtrent phishing</h2>
-        <li>
-          <ul><a href="https://nl.wikipedia.org/wiki/Phishing">Ben je zeker dat dit een veilige link is?</a></ul>
-          <ul><a href="https://www.vlaanderen.be/consumentenbescherming/phishing">Ben je zeker dat dit een veilige link is?</a></ul>
-        </li>
+        <ul>
+          <li><a href="https://nl.wikipedia.org/wiki/Phishing">Wikipedia</a></li>
+          <li><a href="https://www.vlaanderen.be/consumentenbescherming/phishing">Vlaanderen</a></li>
+        </ul>
       </div>
     </section>
   )
