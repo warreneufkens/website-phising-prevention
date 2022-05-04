@@ -27,7 +27,10 @@ const Home = () => {
       </div>
       <div>
         <h2>Waarom is phishing zo gevaarlijk</h2>
-        <p></p>
+        <ul>
+          <li>Via phishing kunnen de criminelen account gegevens verzamelen, zoals een login van Facebook maar dat kunnen ook bankgegevens zijn. (Dit is ook de reden waarom je beter niet overal hetzelfde passwoord neemt.)</li>
+          <li>Je kan hierdoor ook slachtoffer worden van ransomware. Dit zorgt ervoor dat bestanden geëncrypteerd worden, en enkel terug worden vrijgegeven na betalen (van een grote som geld of crypto).</li>
+        </ul>
       </div>
       <div>
         <h2>Meer info omtrent phishing</h2>
