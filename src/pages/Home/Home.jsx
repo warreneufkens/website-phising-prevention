@@ -5,11 +5,11 @@ const Home = () => {
   return (
     <section>
       <div>
-        <h1>Proficiat, u bent gephised :)</h1>
+        <h1>Proficiat, u bent gephished :)</h1>
         <img src={code} alt="code" />
       </div>
       <div>
-        <p>Maar geen paniek! Wij zijn Jarno Reynaert en Warre Neufkens, studenten Toegepaste Informatica aan HoGent. We zijn bezig aan een opdracht omtrent phising en onderzoeken hoe effectief dit is.
+        <p>Maar geen paniek! Wij zijn studenten Toegepaste Informatica aan HoGent. We zijn bezig aan een opdracht omtrent phising en onderzoeken hoe effectief dit is.
         Aan de hand van deze website willen wij er u ook van bewust maken dat het internet en alles in de cyberwereld niet zo veilig is als men denkt.</p>
       </div>
       <div>
